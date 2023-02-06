@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsreez&label=Profile%20views&color=0e75b6&style=flat" alt="mrsreez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsreez" alt="mrsreez" /></a> </p>
+
 
 - 🔭 I’m currently working on **Letscommute**
 
 - 🌱 I’m currently learning **Cypress, Django**
 
-- 💬 Ask me about **Selenium, PyTest, Behave, Django**
+- 💬 Ask me about **Selenium, PyTest, Behave, Django, Appium**
 
 - 📫 How to reach me **mrsreenair@gmail.com**
 
