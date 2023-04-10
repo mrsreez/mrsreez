@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mrsreenair@gmail.com**
 
-- 📄 Know about my experiences [www.google.com](www.google.com)
+- 📄 Know about my experiences [www.linkedin.com](https://www.linkedin.com/in/mrsreekanth/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
