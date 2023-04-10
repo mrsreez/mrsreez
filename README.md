@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Letscommute**
+- 🔭 I’m currently working on **Shift Manager**
 
-- 🌱 I’m currently learning **Cypress, Django**
+- 🌱 I’m currently learning **Django, Playwright**
 
-- 💬 Ask me about **Selenium, PyTest, Behave, Django, Appium**
+- 💬 Ask me about **Selenium, PyTest, Behave, Django**
 
 - 📫 How to reach me **mrsreenair@gmail.com**
 
