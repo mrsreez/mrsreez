@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Shift Manager**
 
-- 🌱 I’m currently learning **Django, Playwright**
+- 🌱 I’m currently learning **Django, Playwright, Docker**
 
 - 💬 Ask me about **Selenium, PyTest, Behave, Django**
 
