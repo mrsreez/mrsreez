@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Shift Manager**
+- 🔭 I’m currently working on **Flex Manager**
 
-- 🌱 I’m currently learning **Django, Playwright, Docker**
+- 🌱 I’m currently learning **Django, Playwright**
 
-- 💬 Ask me about **Selenium, PyTest, Behave, Django**
+- 💬 Ask me about **Playwright,PyTest, Selenium, Behave, Django**
 
 - 📫 How to reach me **mrsreenair@gmail.com**
 
